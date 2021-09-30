@@ -25,4 +25,4 @@ Create your own personal game room or join other rooms and start playing chess w
 ---
 ![image](https://raw.githubusercontent.com/lovesaroha/gimages/main/25.png)
 
-[lovesaroha/n/Chess-Online-Multiplayer](https://lovesaroha.com/n/Chess-Online-Multiplayer)
+[chess.lovesaroha](https://chess.lovesaroha.com)
