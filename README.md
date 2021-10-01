@@ -1,6 +1,6 @@
 # Chess-Online-Multiplayer
 Create your own personal game room or join other rooms and start playing chess with your friends or family members.<br>
-Deno [chess.lovesaroha](https://chess.lovesaroha.com)
+Demo [chess.lovesaroha](https://chess.lovesaroha.com)
 
 ## Features
 - Create game rooms.
